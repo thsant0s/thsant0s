@@ -24,4 +24,4 @@ Me chamo Thiago Santos  , sou Programador Front End, atualmente estou aprendendo
 <br>
 <br>
 <br>
-![](https://komarev.com/ghpvc/?username=your-github-thsant0s)
+![](https://komarev.com/ghpvc/?username=your-thsant0s)
