@@ -8,7 +8,7 @@ Me chamo Thiago Santos  , sou Programador Front End, atualmente estou aprendendo
 
 ### <h2>Meus Perfis:</h2> 
 
-<a href="www.linkedin.com.br" target="_blank"><img width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <a/> 
+<a href="https://www.linkedin.com/in/dev-sant0sth/" target="_blank"><img width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <a/> 
 
 ### <h2>Linguagens e Ferramentas:</h2>
 
